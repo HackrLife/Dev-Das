@@ -7,5 +7,5 @@ import decapCmsOauth from 'astro-decap-cms-oauth';
 // https://astro.build/config
 export default defineConfig({
   adapter: vercel(),
-  integrations: [decapCmsOauth()]
+  integrations: [decapCmsOauth({ decapCMSVersion: '3.8.2' })]
 });

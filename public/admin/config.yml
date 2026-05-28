@@ -5,8 +5,8 @@ backend:
   base_url: https://dev-das.vercel.app
   auth_endpoint: oauth
 
-media_folder: "src/assets/images"
-public_folder: "/src/assets/images"
+media_folder: "public/images"
+public_folder: "/images"
 
 collections:
   - name: "essays"

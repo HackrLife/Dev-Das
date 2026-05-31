@@ -8,6 +8,6 @@ This is why “AI makes taste matter” gets it backwards. Taste mattered the wh
 
 So the real shift is not that we need a new skill for a new era. It is that the old skill can no longer pretend to be anything but itself. The work got easy. The thing that was always hard — knowing what is worth doing, and whether it worked — got harder to avoid.
 
-![](/src/assets/images/production-outcome-gap-mechanism.png)
+![](/images/production-outcome-gap-mechanism.png)
 
 That is the uncomfortable part, and the freeing part. There is nowhere left to hide. But there is also no longer any mistaking the question. You are not competing on how much you can produce. You never were. You are competing, as people always have, on taste — except now everyone can see the scoreboard more easily.
